@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Image from "next/image";
 
 export default function Home() {
@@ -62,4 +63,8 @@ export default function Home() {
       </main>
     </div>
   );
+=======
+﻿export default function Page(){
+  return (<main className='container'><h1>Offclipza</h1><p>Catch the Flow. Spill the Vibes â€” SA edition.</p></main>);
+>>>>>>> 4684ce91eeff8bb488531b7696fba2c1cebf9f40
 }

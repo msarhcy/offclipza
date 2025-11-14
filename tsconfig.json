@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "compilerOptions": {
     "target": "ES2017",
@@ -32,3 +33,6 @@
   ],
   "exclude": ["node_modules"]
 }
+=======
+﻿{ "compilerOptions": { "jsx":"react-jsx" }, "include":["**/*"] }
+>>>>>>> 4684ce91eeff8bb488531b7696fba2c1cebf9f40
